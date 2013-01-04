@@ -1,0 +1,8 @@
+*.ko
+mod_niwohlos.mod.c
+*.o
+modules.order
+Module.symvers
+*.cmd
+.tmp_versions/
+*.swp
